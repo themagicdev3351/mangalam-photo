@@ -46,14 +46,14 @@ export const Socialicons = (params) => {
         {socialprofils.youtube && (
           <li>
             <a target="_blank" href={socialprofils.youtube}>
-              <FaYoutube />
+              <FaYoutube size={30} />
             </a>
           </li>
         )}
         {socialprofils.instagram && (
           <li>
             <a target="_blank" href={socialprofils.instagram}>
-              <FaInstagram />
+              <FaInstagram size={30} />
             </a>
           </li>
         )}
