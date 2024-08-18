@@ -5,19 +5,19 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Vikas Asodariya",
+    title: "HEY WELLCOME TO MANGLAM PHOTO TEAM",
     animated: {
-        first: "I love photography",
-        second: "I make batter photos",
-        third: "I make reels",
+        first: "Plan your wedding with Us",
+        second: "I make a better memories",
+        third: "I make reels and videos",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Get best quote from manglam photo and book your date! Check their prices and availability.",
+    your_img_url: "../../assets/images/vikas.jpg",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Hey my name Vikash Asodariya ouner of Mangalam Photo.",
 };
 
 const worktimeline = [{
@@ -60,17 +60,29 @@ const skills = [{
 ];
 
 const services = [{
-    title: "UI & UX Design",
+    title: "wedding films",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
 },
 {
-    title: "Mobile Apps",
+    title: "All Typ Photography Available",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
 },
 {
-    title: "Wordpress Design",
+    title: "Traddional Photography",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-},
+}, {
+    title: "Pre-wedding Films",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+}, {
+    title: "Albums",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+}, {
+    title: "Candit Photography",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+}, {
+    title: "Matrimonial Shoots",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+}
 ];
 
 const dataportfolio = [{
@@ -137,7 +149,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "mangalamphoto7@gmail.com",
+    YOUR_EMAIL: "mangalamphoto7gmail.com",
     YOUR_FONE: "7575827547",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
