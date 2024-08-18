@@ -7,17 +7,17 @@ const meta = {
 const introdata = {
     title: "HEY WELLCOME TO MANGLAM PHOTO TEAM",
     animated: {
-        first: "Plan your wedding with Us",
-        second: "I make a better memories",
-        third: "I make reels and videos",
+        first: "Plan your wedding with Us.",
+        second: "I make a better memories.",
+        third: "Book Your Weeding Date.",
     },
     description: "Get best quote from manglam photo and book your date! Check their prices and availability.",
-    your_img_url: "../../assets/images/vikas.jpg",
+    your_img_url: "../images/vikas.jpg",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Hey my name Vikash Asodariya ouner of Mangalam Photo.",
+    aboutme: "Hey my name Vikash Asodariya owner of Mangalam Photo. I have 5yrs of Expirance in weeding. I have complated my 100+ weeding and Engagement shoting.",
 };
 
 const worktimeline = [{
@@ -86,63 +86,63 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
+    img: "../images/1.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "../images/2.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "../images/3.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "../images/4.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "../images/5.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "../images/6.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 
 {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "../images/7.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "../images/8.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "../images/9.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/550/?grayscale",
+    img: "../images/10.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "../images/11.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "../images/12.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
